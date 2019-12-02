@@ -5,6 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * @author qian.cheng
  * 21.合并两个有序链表
  * 2019-11-14 qian.cheng 当前方案应该有更优解
  */

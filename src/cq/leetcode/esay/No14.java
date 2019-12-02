@@ -1,6 +1,7 @@
 package cq.leetcode.esay;
 
 /**
+ * @author qian.cheng
  * 14.最长公共前缀
  */
 public class No14 {

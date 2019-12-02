@@ -1,6 +1,7 @@
 package cq.leetcode.medium;
 
 /**
+ * @author qian.cheng
  * 29.两数相除
  */
 public class No29 {

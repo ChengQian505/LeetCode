@@ -1,6 +1,7 @@
 package cq.leetcode.esay;
 
 /**
+ * @author qian.cheng
  * 28.实现strStr()
  */
 public class No28 {

@@ -4,6 +4,7 @@ import java.util.HashMap;
 import java.util.Stack;
 
 /**
+ * @author qian.cheng
  * 20.有效的括号
  */
 public class No20 {

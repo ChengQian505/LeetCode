@@ -3,6 +3,7 @@ package cq.leetcode.esay;
 import java.util.Arrays;
 
 /**
+ * @author qian.cheng
  * 27.移除元素
  */
 public class No27 {

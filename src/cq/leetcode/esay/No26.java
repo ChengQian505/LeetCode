@@ -2,6 +2,7 @@ package cq.leetcode.esay;
 
 
 /**
+ * @author qian.cheng
  * 26.删除排序数组中的重复项
  */
 public class No26 {

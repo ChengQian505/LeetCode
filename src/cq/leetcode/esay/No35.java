@@ -1,6 +1,7 @@
 package cq.leetcode.esay;
 
 /**
+ * @author qian.cheng
  * 35.搜索插入位置
  */
 public class No35 {
