@@ -17,6 +17,9 @@
 28|[实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/esay/No28.java)
 35|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/esay/No35.java)
 38|[报数](https://leetcode-cn.com/problems/count-and-say/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/esay/No38.java)
+53|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/esay/No53.java)
+58|[最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/esay/No58.java)
+66|[加一](https://leetcode-cn.com/problems/plus-one/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/esay/No66.java)
 121|[买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/esay/No121.java)
 
 ### medium
