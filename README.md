@@ -20,6 +20,7 @@
 53|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/esay/No53.java)
 58|[最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/esay/No58.java)
 66|[加一](https://leetcode-cn.com/problems/plus-one/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/esay/No66.java)
+67|[二进制求和](https://leetcode-cn.com/problems/add-binary/submissions/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/esay/No67.java)
 121|[买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/esay/No121.java)
 
 ### medium
@@ -29,5 +30,13 @@
 2|[两数相加](https://leetcode-cn.com/problems/add-two-numbers/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/medium/No2.java)
 3|[无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/medium/No3.java)
 29|[两数相除](https://leetcode-cn.com/problems/divide-two-integers/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/medium/No29.java)
+
+### hard
+
+序号|题目|题解
+:-:|:-:|:-:
+68|[文本左右对齐](https://leetcode-cn.com/problems/text-justification/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/hard/No68.java)
+
+
 
 喜欢就 star❤️ 一下吧！
