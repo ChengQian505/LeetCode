@@ -20,7 +20,8 @@
 53|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/esay/No53.java)
 58|[最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/esay/No58.java)
 66|[加一](https://leetcode-cn.com/problems/plus-one/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/esay/No66.java)
-67|[二进制求和](https://leetcode-cn.com/problems/add-binary/submissions/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/esay/No67.java)
+67|[二进制求和](https://leetcode-cn.com/problems/add-binary/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/esay/No67.java)
+69|[x 的平方根](https://leetcode-cn.com/problems/sqrtx/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/esay/No69.java)
 121|[买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/esay/No121.java)
 
 ### medium
