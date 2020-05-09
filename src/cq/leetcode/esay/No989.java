@@ -5,6 +5,7 @@ import java.util.List;
 
 /**
  * @author qian.cheng
+ * 989.数组形式的整数加法
  */
 public class No989 {
     public List<Integer> addToArrayForm(int[] A, int K) {
