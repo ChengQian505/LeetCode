@@ -39,6 +39,7 @@
 
 序号|题目|题解
 :-:|:-:|:-:
+4|[寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/hard/No4.java)
 68|[文本左右对齐](https://leetcode-cn.com/problems/text-justification/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/hard/No68.java)
 
 
