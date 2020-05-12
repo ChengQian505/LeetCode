@@ -23,6 +23,8 @@
 67|[二进制求和](https://leetcode-cn.com/problems/add-binary/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/esay/No67.java)
 69|[x 的平方根](https://leetcode-cn.com/problems/sqrtx/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/esay/No69.java)
 121|[买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/esay/No121.java)
+155|[最小栈](https://leetcode-cn.com/problems/min-stack/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/esay/No155.java)
+167|[两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/esay/No167.java)
 415|[字符串相加](https://leetcode-cn.com/problems/add-strings/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/esay/No415.java)
 989|[数组形式的整数加法](https://leetcode-cn.com/problems/add-to-array-form-of-integer/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/esay/No989.java)
 
@@ -34,6 +36,7 @@
 3|[无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/medium/No3.java)
 29|[两数相除](https://leetcode-cn.com/problems/divide-two-integers/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/medium/No29.java)
 43|[字符串相乘](https://leetcode-cn.com/problems/multiply-strings/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/medium/No43.java)
+50|[Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)|[Java](https://github.com/ChengQian505/LeetCode/blob/master/src/cq/leetcode/medium/No50.java)
 
 ### hard
 
