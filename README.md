@@ -37,6 +37,7 @@
 29|[两数相除](https://leetcode-cn.com/problems/divide-two-integers/)|[Java](https://github.com/ChengQian505/LeetCode/tree/master/src/main/java/cq/leetcode/answer/medium/No29.java)
 43|[字符串相乘](https://leetcode-cn.com/problems/multiply-strings/)|[Java](https://github.com/ChengQian505/LeetCode/tree/master/src/main/java/cq/leetcode/answer/medium/No43.java)
 50|[Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)|[Java](https://github.com/ChengQian505/LeetCode/tree/master/src/main/java/cq/leetcode/answer/medium/No50.java)
+560|[和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)|[Java](https://github.com/ChengQian505/LeetCode/tree/master/src/main/java/cq/leetcode/answer/medium/No560.java)
 
 ### hard
 

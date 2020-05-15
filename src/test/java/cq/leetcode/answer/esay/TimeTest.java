@@ -2,6 +2,7 @@ package cq.leetcode.answer.esay;
 
 
 import cq.leetcode.answer.hard.No239;
+import cq.leetcode.answer.medium.No560;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -18,10 +19,10 @@ import org.springframework.test.context.junit4.SpringRunner;
 public class TimeTest {
 
     @Autowired
-    No239 no239;
+    No560 no239;
 
     @Test
     public void test(){
-        no239.maxSlidingWindow(new int[]{1,-1},1);
+        no239.subarraySum(new int[]{28,54,7,-70,22,65,-6},100);
     }
 }
