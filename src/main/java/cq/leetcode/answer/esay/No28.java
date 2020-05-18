@@ -12,10 +12,10 @@ public class No28 {
     }
 
     private static int strStr(String haystack, String needle) {
-        if (needle==null||needle.equals("")){
+        if (needle==null|| "".equals(needle)){
             return 0;
         }
-        if (haystack==null||haystack.equals("")){
+        if (haystack==null|| "".equals(haystack)){
             return -1;
         }
         return haystack.indexOf(needle);
