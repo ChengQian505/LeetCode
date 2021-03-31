@@ -1,17 +1,12 @@
 package cq.leetcode.answer.esay;
 
+import cq.leetcode.ProgressWatch;
+
 /**
  * @author qian.cheng
  * 7.整数反转
  */
-public class No7 {
-
-
-    public static void main(String[] args) {
-        System.out.println(reverse(1534236469));
-        System.out.println(reverse(-123));
-        System.out.println(reverse(120));
-    }
+public class No7 extends ProgressWatch {
 
     private static int reverse(int x) {
         boolean positiveNumber=false;
@@ -31,5 +26,17 @@ public class No7 {
             num=-num;
         }
         return num;
+    }
+
+    @Override
+    public void test() {
+        execute(1534236469);
+        execute(-123);
+        execute(120);
+    }
+
+    @Override
+    protected Object run(Object... object) {
+        return reverse((Integer) object[0]);
     }
 }

@@ -16,7 +16,7 @@ public class No680 {
         for (int i=0;i<mid;i++){
             if (s.charAt(i)!=s.charAt(s.length()-1-i)){
                 if (!d){
-                    return d;
+                    return false;
                 }
                 d=false;
                 if (!validPalindrome(s.substring(i+1,s.length()-i))){
