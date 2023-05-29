@@ -34,18 +34,16 @@ public abstract class ProgressWatch {
     }
 
     private String getPrintTime(Long nanoTime) {
-        //纳秒
-        int ns1 = 1000000;
         //毫秒
-        int ms1 = ns1 * 1000;
+        long ms1 = 1000000;
         //秒
-        int s1 = ms1 * 1000;
+        long s1 = ms1 * 1000;
         //分
-        int mi = s1 * 60;
+        long mi = s1 * 60;
         //时
-        int hh = mi * 60;
+        long hh = mi * 60;
         //天
-        int dd = hh * 24;
+        long dd = hh * 24;
 
         long day = nanoTime / dd;
         long hour = (nanoTime - day * dd) / hh;
