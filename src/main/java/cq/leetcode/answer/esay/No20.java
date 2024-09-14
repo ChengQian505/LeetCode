@@ -9,7 +9,7 @@ import java.util.Stack;
  */
 public class No20 {
 
-    private static String[] strings = new String[]{
+    private static final String[] strings = new String[]{
             "()",
             "()[]{}",
             "(]",

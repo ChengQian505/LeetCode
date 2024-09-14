@@ -5,7 +5,7 @@ package cq.leetcode.answer.esay;
  * 13.罗马数字转整数
  */
 public class No13 {
-    private static String[] strings = new String[]{
+    private static final String[] strings = new String[]{
             "III",
             "IV",
             "IX",

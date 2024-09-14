@@ -2,15 +2,13 @@ package cq.leetcode.answer.esay;
 
 import cq.leetcode.ProgressWatch;
 
-import java.util.Arrays;
-
 /**
  * @author qian.cheng
  * 1.两数之和
  */
 public class No1 extends ProgressWatch {
 
-    private static int[] s1 = new int[]{
+    private static final int[] s1 = new int[]{
             2, 7, 11, 15
     };
 

@@ -6,11 +6,11 @@ package cq.leetcode.answer.esay;
  */
 public class No14 {
 
-    private static String[] s1 = new String[]{
+    private static final String[] s1 = new String[]{
             "flower", "flow", "flight"
     };
 
-    private static String[] s2 = new String[]{
+    private static final String[] s2 = new String[]{
             "dog","racecar","car"
     };
 

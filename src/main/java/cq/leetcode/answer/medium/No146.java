@@ -13,11 +13,11 @@ import java.util.*;
 @Component
 public class No146 {
 
-    private LinkedList<Integer> list = new LinkedList<>();
+    private final LinkedList<Integer> list = new LinkedList<>();
 
-    private HashMap<Integer, Integer> map = new HashMap<>();
+    private final HashMap<Integer, Integer> map = new HashMap<>();
 
-    private int count;
+    private final int count;
 
     public No146(@Value("2") int capacity) {
         count=capacity;

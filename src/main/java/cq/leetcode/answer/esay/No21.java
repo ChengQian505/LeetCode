@@ -14,7 +14,7 @@ public class No21 {
         System.out.println(mergeTwoLists(ListNode.getListNode(new Integer[]{1,2,4}),ListNode.getListNode(new Integer[]{1,3,4})));
     }
 
-    private static List<Integer> integerList=new ArrayList<>();
+    private static final List<Integer> integerList=new ArrayList<>();
 
     private static ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         if (l1==null&&l2==null){
